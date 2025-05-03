@@ -3,3 +3,8 @@
     background-color: none!important;
     color:#00aeef;
 }
+@media screen and (min-width: 700px) {
+    .career-box {
+        margin: 0px 5%;
+    }
+}

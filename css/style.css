@@ -5,6 +5,6 @@
 }
 @media screen and (min-width: 700px) {
     .career-box {
-        margin: 0px 5%;
+        margin: 0px 5%!important;
     }
 }

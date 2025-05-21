@@ -9,3 +9,27 @@
         margin: 0px 5%!important;
     }
 }
+
+.services {
+    margin: 10 auto;
+}
+.services li {
+    background-color: #ffffff; /* White background for list items */
+    margin-bottom: 0.75rem; /* Spacing between list items */
+    padding: 1rem 1.5rem; /* Padding inside list items */
+    border-radius: 0.75rem; /* Rounded corners for list items */
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s ease-in-out; /* Smooth hover effect */
+}
+.mt-30 {
+    margin-top: 30px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.industries img {
+    margin-right: 4px;
+}
